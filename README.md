@@ -6,6 +6,8 @@ Dans ce TP on va utiliser Hadoop à partir d’une image Docker, l’image qu’
 
 > Remarque : vous devez avoir docker installer chez vous.
 
+#### vous pouvez soit suivre les étapes suivantes, soit regarder ce [vidéo]() qui explique les mème etapes d'une façon bien détaillé.
+
 ## Instalation
 ### Téléchargement de l'images docker:
 Commençant par exécuter la commande suivante dans le terminal :
